@@ -137,5 +137,7 @@ footer { display: flex; flex-direction: column; align-items: center; justify-con
     .div-infos-certificate button { display: none; }
     .button-emitir { width: 100%; }
     .div-certificate img { width: 100%; }
-    .section-congrats { flex-direction: column; justify-content: center; align-items: center; text-align: center; }
+    .section-congrats, .section-failure { flex-direction: column; justify-content: center; align-items: center; text-align: center; }
+    .div-alert { width: 100%; }
+    .div-gabarito { width: 100%; }
 }
